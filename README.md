@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MahdiHme
 - 👀 I’m interested in learning how to code
 - 🌱 I’m currently learning everything :))
-- 💞️ I’m looking to collaborate on way to a better world :))
+- 💞️ I’m looking to collaborate on ways to a better world :))
 - 📫 How to reach me is via my email which I check everyday mehdihme@gmail.com
 
 <!---
