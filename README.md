@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MahdiHme
 - 👀 I’m interested in learning the programming
-- 🌱 I’m currently learning django
+- 🌱 I’m currently learning everything :))
 - 💞️ I’m looking to collaborate on way to a better world :))
 - 📫 How to reach me is via my email which I check everyday mehdihme@gmail.com
 
