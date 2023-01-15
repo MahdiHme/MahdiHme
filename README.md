@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MahdiHme
+- 👋 Hi, I’m Mahdi Hashemi(mhashemi19)
 - 👀 I’m interested in learning how to code
 - 🌱 I’m currently learning everything :))
 - 💞️ I’m looking to collaborate on ways to a better world :))
