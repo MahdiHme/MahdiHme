@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Mahdi Hashemi(mhashemi19)
-- 👀 I’m interested in learning how to code
+- 👋 Hi, I’m Mahdi Hashemi
+- 👀 I’m interested in learning to code
 - 🌱 I’m currently learning everything :))
 - 💞️ I’m looking to collaborate on ways to a better world :))
 - 📫 How to reach me is via my email which I check everyday mehdihme@gmail.com
